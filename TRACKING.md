@@ -1,23 +1,18 @@
 # HUSZONEGY Transcript Szépítés — Tracking
 
 ## FOLYAMATBAN
-_(nincs — vedd a következőt a "Még hátra" listáról)_
+_(nincs — várakozás pesz-szel való egyeztetésre)_
 
-Amikor dolgozol, frissítsd így:
-```
-- **Epizód:** EXX
-- **Branch:** eXX-transcript-cleanup
-- **Állapot:** [ ] .md kész / [ ] commitolva / [ ] pusholva / [ ] PR nyitva
-- **PR:** #NNN (vagy "még nincs")
-```
+## Fork
+https://github.com/autoblitzbot/huszonegy.github.io
 
 ## Haladási irány
-Csökkenő sorrendben. Fork: https://github.com/autoblitzbot/huszonegy.github.io
+Csökkenő sorrendben (E20 → E01), aztán R07 → R01.
 
 ## Mergelve (main-en van .md)
 E91, E92, E93, E94, E95, E96
 
-## Nyitott PR-ek (pesz review-zza)
+## Nyitott PR-ek (69 db, pesz review-zza)
 E21 (#386), E22 (#385), E23 (#384), E24 (#383), E25 (#382), E26 (#381),
 E27 (#380), E28 (#379), E29 (#378), E31 (#377), E32 (#376), E33 (#375),
 E34 (#374), E35 (#373), E36 (#372), E37 (#371), E38 (#370), E39 (#369),
@@ -32,11 +27,12 @@ E82 (#324), E83 (#323), E84 (#322), E85 (#321), E86 (#320), E87 (#319),
 E88 (#318), E89 (#316), E90 (#315)
 + fix PR-ok: #330, #328
 
-## Még hátra
-E01, E02, E03, E04, E05, E06, E07, E08, E09, E10,
-E11, E12, E13, E14, E15, E16, E17, E18, E19, E20
-R01, R02, R03, R04, R05, R06, R07
+## Még hátra (27 epizód)
+E20, E19, E18, E17, E16, E15, E14, E13, E12, E11,
+E10, E09, E08, E07, E06, E05, E04, E03, E02, E01
+R07, R06, R05, R04, R03, R02, R01
 
 ## Megjegyzések
-- E30 nem létezik (nincs SRT fájl)
+- E30 nem létezik (nincs SRT/txt fájl)
 - R sorozat: külön epizódok, szintén szépítendő
+- Minden epizód .txt fájlja megvan a `public/transcripts_clean/` mappában
