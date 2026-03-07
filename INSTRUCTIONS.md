@@ -121,6 +121,7 @@ Meglévő szépített fájlok mintának (main branchen):
 - Git config repo-szinten kell (user.name: autoblitzbot, email: autoblitzbot@users.noreply.github.com)
 - Mindig main-ről indulj új branchcsel
 - Egy PR = egy epizód
+- **A .txt fájlt SOHA ne töröld és ne módosítsd!** A .md mellé jön, a .txt változatlanul megmarad. Egy PR = 1 új .md fájl.
 - Ha kétséges egy javítás, inkább hagyd az eredetit
 - TRACKING.md-t MINDIG frissítsd (előtte és utána is)
 - Hiba/session váltás után: ELŐSZÖR olvasd el ezt a fájlt + TRACKING.md!
