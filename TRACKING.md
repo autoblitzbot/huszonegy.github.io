@@ -1,7 +1,18 @@
 # HUSZONEGY Transcript Szépítés — Tracking
 
+## FOLYAMATBAN
+_(nincs — vedd a következőt a "Még hátra" listáról)_
+
+Amikor dolgozol, frissítsd így:
+```
+- **Epizód:** EXX
+- **Branch:** eXX-transcript-cleanup
+- **Állapot:** [ ] .md kész / [ ] commitolva / [ ] pusholva / [ ] PR nyitva
+- **PR:** #NNN (vagy "még nincs")
+```
+
 ## Haladási irány
-Csökkenő sorrendben. Következő: **E20**
+Csökkenő sorrendben. Fork: https://github.com/autoblitzbot/huszonegy.github.io
 
 ## Mergelve (main-en van .md)
 E91, E92, E93, E94, E95, E96
