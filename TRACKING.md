@@ -1,7 +1,8 @@
 # HUSZONEGY Transcript Szépítés — Tracking
 
 ## FOLYAMATBAN
-_(nincs — várakozás pesz-szel való egyeztetésre)_
+_(szünet — csütörtökig (2026-03-12) nem kezdünk új epizódot, tokent spórolunk)_
+**Következő:** E20
 
 ## Fork
 https://github.com/autoblitzbot/huszonegy.github.io
